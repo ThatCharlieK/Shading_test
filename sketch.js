@@ -6,5 +6,5 @@ void setup() {
 
 }
 void draw() {
-  rect(50, 50, 50, 50);  
+  text("STALEMATE", 0, height/2, width, height);
 }
